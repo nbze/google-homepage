@@ -1,0 +1,1 @@
+This first ever project is to practice creating Google's Homepage to learn HTML/CSS basics.
